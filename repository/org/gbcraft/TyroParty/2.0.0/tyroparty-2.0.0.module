@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.gbcraft",
+    "module": "tyroparty",
+    "version": "2.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5",
+      "buildId": "b5v7qj2ayje4ngmgmfiemcnwhi"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "tyroparty-2.0.0.jar",
+          "url": "tyroparty-2.0.0.jar",
+          "size": 24247,
+          "sha512": "c0f101a032ed6e5dbf5cbf8daf446f4b271d1c9003d00c275a1537992680b653b6274121d2f37a632eae26ce9b90abb508677d7941cff6d2b8d3f2ae1895ee76",
+          "sha256": "6e2760d3b04664411e370036d1be07b694ac5b933c521ca4182c40611e13abbb",
+          "sha1": "eabba190bac2386d2619b0b9f8a46a0f3d5b7489",
+          "md5": "fe58afc095d6772bd723a75f4006f46d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "tyroparty-2.0.0.jar",
+          "url": "tyroparty-2.0.0.jar",
+          "size": 24247,
+          "sha512": "c0f101a032ed6e5dbf5cbf8daf446f4b271d1c9003d00c275a1537992680b653b6274121d2f37a632eae26ce9b90abb508677d7941cff6d2b8d3f2ae1895ee76",
+          "sha256": "6e2760d3b04664411e370036d1be07b694ac5b933c521ca4182c40611e13abbb",
+          "sha1": "eabba190bac2386d2619b0b9f8a46a0f3d5b7489",
+          "md5": "fe58afc095d6772bd723a75f4006f46d"
+        }
+      ]
+    }
+  ]
+}
