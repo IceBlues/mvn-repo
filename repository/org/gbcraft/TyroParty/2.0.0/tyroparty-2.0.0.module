@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5",
-      "buildId": "b5v7qj2ayje4ngmgmfiemcnwhi"
+      "buildId": "vaokrg73hrgule7lrbazb2narm"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "tyroparty-2.0.0.jar",
           "url": "tyroparty-2.0.0.jar",
-          "size": 24247,
-          "sha512": "c0f101a032ed6e5dbf5cbf8daf446f4b271d1c9003d00c275a1537992680b653b6274121d2f37a632eae26ce9b90abb508677d7941cff6d2b8d3f2ae1895ee76",
-          "sha256": "6e2760d3b04664411e370036d1be07b694ac5b933c521ca4182c40611e13abbb",
-          "sha1": "eabba190bac2386d2619b0b9f8a46a0f3d5b7489",
-          "md5": "fe58afc095d6772bd723a75f4006f46d"
+          "size": 24914,
+          "sha512": "a32c665bd87a79f873091395862676cf005e3d1474ee8d272667db40714913c7fe288e8a5d24d02dc7e0d86ea59e6ca2366c94ed34a0642cc4ecd470107ab219",
+          "sha256": "54553e67ab0efa77b2999c1505186c419e8c041b9772ff2b67e8b5884beffa94",
+          "sha1": "6a29b60b624e0aa92fe5eedf631a6efb330fbda7",
+          "md5": "b4b1ddd0e92c26f0653b6ee0c4d5f24a"
         }
       ]
     },
@@ -49,11 +49,11 @@
         {
           "name": "tyroparty-2.0.0.jar",
           "url": "tyroparty-2.0.0.jar",
-          "size": 24247,
-          "sha512": "c0f101a032ed6e5dbf5cbf8daf446f4b271d1c9003d00c275a1537992680b653b6274121d2f37a632eae26ce9b90abb508677d7941cff6d2b8d3f2ae1895ee76",
-          "sha256": "6e2760d3b04664411e370036d1be07b694ac5b933c521ca4182c40611e13abbb",
-          "sha1": "eabba190bac2386d2619b0b9f8a46a0f3d5b7489",
-          "md5": "fe58afc095d6772bd723a75f4006f46d"
+          "size": 24914,
+          "sha512": "a32c665bd87a79f873091395862676cf005e3d1474ee8d272667db40714913c7fe288e8a5d24d02dc7e0d86ea59e6ca2366c94ed34a0642cc4ecd470107ab219",
+          "sha256": "54553e67ab0efa77b2999c1505186c419e8c041b9772ff2b67e8b5884beffa94",
+          "sha1": "6a29b60b624e0aa92fe5eedf631a6efb330fbda7",
+          "md5": "b4b1ddd0e92c26f0653b6ee0c4d5f24a"
         }
       ]
     }
