@@ -6,4 +6,19 @@
   <artifactId>lithium</artifactId>
   <version>0.6.0</version>
   <description>POM was created from install:install-file</description>
+  
+  <dependencies>
+    <dependency>
+      <groupId>net.fabricmc</groupId>
+      <artifactId>fabric-loader</artifactId>
+      <version>0.7.5+build.178</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-api</artifactId>
+      <version>0.4.29+build.290-1.15</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
