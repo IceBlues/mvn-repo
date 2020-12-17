@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.gbcraft",
+    "module": "icesimpleteam",
+    "version": "2.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5",
+      "buildId": "24rombt6hfanhotg6jugs5wcfi"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "icesimpleteam-2.2.0.jar",
+          "url": "icesimpleteam-2.2.0.jar",
+          "size": 39553,
+          "sha512": "23bba06a3a56b9aa6a757ebb79f0caf86d228f23b3cf92e60096493146612c92949f93e028372410efe1d5efbb9c16f4675133a974d96b0e767c36df6390de4e",
+          "sha256": "1836ea5022c8ef19684fb3744d8654caf255b347590d82aeb677147d4de0c9b3",
+          "sha1": "ae9b45114b285b867fb8963eae772c6f0c32efef",
+          "md5": "29892b94fdfeccda3569a951f0baf4b0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "icesimpleteam-2.2.0.jar",
+          "url": "icesimpleteam-2.2.0.jar",
+          "size": 39553,
+          "sha512": "23bba06a3a56b9aa6a757ebb79f0caf86d228f23b3cf92e60096493146612c92949f93e028372410efe1d5efbb9c16f4675133a974d96b0e767c36df6390de4e",
+          "sha256": "1836ea5022c8ef19684fb3744d8654caf255b347590d82aeb677147d4de0c9b3",
+          "sha1": "ae9b45114b285b867fb8963eae772c6f0c32efef",
+          "md5": "29892b94fdfeccda3569a951f0baf4b0"
+        }
+      ]
+    }
+  ]
+}
