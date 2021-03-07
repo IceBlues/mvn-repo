@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 07 15:52:42 CST 2021
+commandapi-5.9.pom>=
+commandapi-5.9.jar>=
